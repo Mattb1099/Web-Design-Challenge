@@ -1,0 +1,22 @@
+html {
+    /* Positioning */
+    position: relative;
+  
+    /* Box-model */
+    min-height: 100%;
+}
+  
+#imageNav-area{
+    width: 100%;
+    /* height: ; */
+    padding: 40px, 40px, 40px, 0px;
+    margin-top: 10px;
+    background: #fff;
+}
+#images{
+    width: 100%;
+    height: 50%;
+    /* padding: 40px, 40px, 40px, 0px;
+    margin-top: 10px;
+    background: #ff0; */
+}
